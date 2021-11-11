@@ -10,7 +10,9 @@
 -	An additional request was made to provide summary statistics for the months of June and December across the entire dataset. 
 ## Results
 -	June Summary: The mean temperature for June was around 75 degrees Fahrenheit and tended to stay in the 70’s with a peak high of 85 and a minimum low of 64.
+-	![Summary Statistics For June](images/Summary_Statistics_For_June.png)
 -	December Summary: The mean temperature for December was around 71 degrees Fahrenheit and tended to stay in the 70’s with a peak high of 83 and a minimum low of 56.
+-	![Summary Statistics For December](images/Summary_Statistics_For_December.png)
 -	It was noted that there were fewer observations for December; however, there were plenty of datapoints for a reliable analysis. 
 ## Summary
 -	Weather in Oahu, Hawaii appears to be relatively mild throughout the year as far as temperatures are concerned. 
